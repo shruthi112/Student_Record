@@ -6,6 +6,7 @@ Let us see how it works:
 
 Step1: You need to get logged in.Start from file "Mainpy.py". If correct details are entered then, you can proceed further.
         ("In case of error, re-enter the details on terminal")
+
 Step2: In the next step you get a Main Menu listing different tabs as follows:
         Insert new record- Entering new student details
         Medical record- Medical record of a particular student
